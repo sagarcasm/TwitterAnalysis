@@ -4,6 +4,7 @@ Script to download twitter data bsed on hashtags and geolocation using Python Tw
 
 ## Prerequisite
 Python
+
 MongoDB installed locally
 
 
